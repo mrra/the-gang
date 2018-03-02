@@ -46,6 +46,15 @@ p{
 	overflow: hidden;
 }
 
+.hero-banner .wrapper{
+	height: 464px;
+	position: absolute;
+	top: 50%;
+	margin-top: -232px;
+	left: 50%;
+	margin-left: -480px;
+}
+
 .hero-banner h1{
 	color: white;
 	margin: 14px 0 20px;
@@ -363,34 +372,3 @@ footer a{
 	width: 100%;
 	padding: 15px 20px;
 }
-
-/*
-
-<div class="popup">
-	<div class="blanket"></div>
-	<div class="content">
-		<h2>Fill In Your Details</h2>
-		<form action="">
-			<div class="item">
-				<label>Your First Name</label>
-				<input type="text" placeholder="Awesomeface" value="Shirley">
-			</div>
-			<div class="item">
-				<label>Your Last Name</label>
-				<input type="text" placeholder="Circleface">
-			</div>
-			<div class="item">
-				<label>Your Favourite Color</label>
-				<input type="text" placeholder="Pink">
-			</div>
-			<div class="item">
-				<label>Your Favourite Food</label>
-				<input type="text" placeholder="Apple Pie">
-			</div>
-			<button class="cta">I Want In!</button>
-		</form>
-		<button class="close">Close</button>
-	</div>
-</div>
-
- */
