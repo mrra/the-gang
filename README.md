@@ -1,5 +1,7 @@
 # The Gang
 
+![A photo of The Gang](https://static.skillshare.com/uploads/project/9cbe9648489f5179555dd1e231476bde/ace1f522)
+
 ### Welcome to _The Gang's_ simple webpage repo!  
 **This site is very simple. And bold. And colorful. And big!**  
 
