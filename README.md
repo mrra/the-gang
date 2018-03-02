@@ -1,11 +1,11 @@
 # The Gang
 
-### Welcome to _The Gang's_ simple webpage repo.  
-*This site is very simple. And bold. And colorful. And big!*  
+### Welcome to _The Gang's_ simple webpage repo!  
+**This site is very simple. And bold. And colorful. And big!**  
 
 Its primary purpose is to showcase various technqiues shown in the class titled [The Basics of Web-Design Layout: Learn How To Describe Your Design With HTML & CSS](http://skl.sh/2FKWcgJ)
 
-*In the class we cover the following topics:*
+**In the class we cover the following topics:**
 - The 5 different types of positioning
 - Depth management
 - Common display types
